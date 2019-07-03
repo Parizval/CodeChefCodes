@@ -1,2 +1,1 @@
-# CodeChefCodes
-
+# CodeChef Solutions 
