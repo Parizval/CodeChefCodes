@@ -194,35 +194,35 @@ I have created the entire list of question whose solutions are available in this
 
 - [Link Name](https://www.codechef.com/problems/TLG)
 
-- [Link Name](https://www.codechef.com/problems/TRICOIN)
+- [Coins And Triangle](https://www.codechef.com/problems/TRICOIN)
 
-- [Link Name](https://www.codechef.com/problems/TRUEDARE)
+- [Truth and Dare](https://www.codechef.com/problems/TRUEDARE)
 
-- [Link Name](https://www.codechef.com/problems/TSORT)
+- [Turbo Sort](https://www.codechef.com/problems/TSORT)
 
-- [Link Name](https://www.codechef.com/problems/TSTROBOT)
+- [Testing Robots](https://www.codechef.com/problems/TSTROBOT)
 
-- [Link Name](https://www.codechef.com/problems/TTENIS)
+- [Chef and Table Tennis](https://www.codechef.com/problems/TTENIS)
 
-- [Link Name](https://www.codechef.com/problems/TWONMS)
+- [Two Numbers](https://www.codechef.com/problems/TWONMS)
 
-- [Link Name](https://www.codechef.com/problems/TWOSTR)
+- [Chef and the Wildcard Matching](https://www.codechef.com/problems/TWOSTR)
 
-- [Link Name](https://www.codechef.com/problems/TWOVSTEN)
+- [Two vs Ten](https://www.codechef.com/problems/TWOVSTEN)
 
-- [Link Name](https://www.codechef.com/problems/URCALC)
+- [Program your Own CALCULATOR](https://www.codechef.com/problems/URCALC)
 
-- [Link Name](https://www.codechef.com/problems/UTMOPR)
+- [Strange Operations](https://www.codechef.com/problems/UTMOPR)
 
-- [Link Name](https://www.codechef.com/problems/VCS)
+- [Version Control System](https://www.codechef.com/problems/VCS)
 
-- [Link Name](https://www.codechef.com/problems/VILTRIBE)
+- [Villages and Tribes](https://www.codechef.com/problems/VILTRIBE)
 
-- [Link Name](https://www.codechef.com/problems/VOWELTB)
+- [Is it a VOWEL or CONSONANT](https://www.codechef.com/problems/VOWELTB)
 
-- [Link Name](https://www.codechef.com/problems/WDTBAM)
+- [Who dares to be a millionaire](https://www.codechef.com/problems/WDTBAM)
 
-- [Link Name](https://www.codechef.com/problems/XENTASK)
+- [Xenny and Alternating Tasks](https://www.codechef.com/problems/XENTASK)
 
 - [Link Name](https://www.codechef.com/problems/ZUBREACH)
 
