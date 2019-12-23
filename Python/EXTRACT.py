@@ -1,6 +1,6 @@
 import glob,os
 import requests
-directory = "./EASY"
+directory = "."
 os.chdir(directory)
 files = [file for file in glob.glob("*.py")]
 print(files)

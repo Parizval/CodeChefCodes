@@ -277,3 +277,75 @@ I have created the entire list of question whose solutions are available in this
 - [WALK](https://www.codechef.com/problems/WALK)
 
 - [ZOZ](https://www.codechef.com/problems/ZOZ)
+
+### Misc
+
+- [EXTRACT](https://www.codechef.com/problems/EXTRACT)
+
+- [MAGICHF](https://www.codechef.com/problems/MAGICHF)
+
+- [MATPAN](https://www.codechef.com/problems/MATPAN)
+
+- [MAX2](https://www.codechef.com/problems/MAX2)
+
+- [MGCSET](https://www.codechef.com/problems/MGCSET)
+
+- [MISSP](https://www.codechef.com/problems/MISSP)
+
+- [MNMX](https://www.codechef.com/problems/MNMX)
+
+- [MUFFINS3](https://www.codechef.com/problems/MUFFINS3)
+
+- [NAICHEF](https://www.codechef.com/problems/NAICHEF)
+
+- [NITIKA](https://www.codechef.com/problems/NITIKA)
+
+- [NOMATCH](https://www.codechef.com/problems/NOMATCH)
+
+- [NOTINCOM](https://www.codechef.com/problems/NOTINCOM)
+
+- [NUMCOMP](https://www.codechef.com/problems/NUMCOMP)
+
+- [NW1](https://www.codechef.com/problems/NW1)
+
+- [PALL01](https://www.codechef.com/problems/PALL01)
+
+- [PCJ18B](https://www.codechef.com/problems/PCJ18B)
+
+- [PERFCONT](https://www.codechef.com/problems/PERFCONT)
+
+- [PLAYPIAN](https://www.codechef.com/problems/PLAYPIAN)
+
+- [PPSUM](https://www.codechef.com/problems/PPSUM)
+
+- [PROC18A](https://www.codechef.com/problems/PROC18A)
+
+- [QUADROOT](https://www.codechef.com/problems/QUADROOT)
+
+- [RAINBOWA](https://www.codechef.com/problems/RAINBOWA)
+
+- [RD19](https://www.codechef.com/problems/RD19)
+
+- [RECIPE](https://www.codechef.com/problems/RECIPE)
+
+- [RECTANGL](https://www.codechef.com/problems/RECTANGL)
+
+- [RECTSQ](https://www.codechef.com/problems/RECTSQ)
+
+- [REMAIN](https://www.codechef.com/problems/REMAIN)
+
+- [REMISS](https://www.codechef.com/problems/REMISS)
+
+- [ROBOGAME](https://www.codechef.com/problems/ROBOGAME)
+
+- [SIMDISH](https://www.codechef.com/problems/SIMDISH)
+
+- [SIMPSTAT](https://www.codechef.com/problems/SIMPSTAT)
+
+- [SINS](https://www.codechef.com/problems/SINS)
+
+- [SMPAIR](https://www.codechef.com/problems/SMPAIR)
+
+- [SNCKYEAR](https://www.codechef.com/problems/SNCKYEAR)
+
+- [VALIDSTK](https://www.codechef.com/problems/VALIDSTK)
