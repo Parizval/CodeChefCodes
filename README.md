@@ -42,55 +42,55 @@ I have created the entire list of question whose solutions are available in this
 
 - [Chef and Chocolate](https://www.codechef.com/problems/CHCHCL)
 
-- [Link Name](https://www.codechef.com/problems/CHEFAPAR)
+- [Chef and Apartment Dues](https://www.codechef.com/problems/CHEFAPAR)
 
-- [Link Name](https://www.codechef.com/problems/CHEFCHR)
+- [Chef and His Characters](https://www.codechef.com/problems/CHEFCHR)
 
-- [Link Name](https://www.codechef.com/problems/CHEFRUN)
+- [Secret Recipe](https://www.codechef.com/problems/CHEFRUN)
 
-- [Link Name](https://www.codechef.com/problems/CHEFSTLT)
+- [Chef and Two Strings](https://www.codechef.com/problems/CHEFSTLT)
 
-- [Link Name](https://www.codechef.com/problems/CHEFSUM)
+- [Little Chef and Sums](https://www.codechef.com/problems/CHEFSUM)
 
-- [Link Name](https://www.codechef.com/problems/CHEFWORK)
+- [Workers](https://www.codechef.com/problems/CHEFWORK)
 
-- [Link Name](https://www.codechef.com/problems/CHEGLOVE)
+- [Chef and Glove](https://www.codechef.com/problems/CHEGLOVE)
 
-- [Link Name](https://www.codechef.com/problems/CHFAR)
+- [Chef and Sequence](https://www.codechef.com/problems/CHFAR)
 
-- [Link Name](https://www.codechef.com/problems/CHFINTRO)
+- [Chef and Interactive Contests](https://www.codechef.com/problems/CHFINTRO)
 
-- [Link Name](https://www.codechef.com/problems/CHN09)
+- [Malvika is peculiar about color of ballons](https://www.codechef.com/problems/CHN09)
 
-- [Link Name](https://www.codechef.com/problems/CHOPRT)
+- [Chef and Operators](https://www.codechef.com/problems/CHOPRT)
 
-- [Link Name](https://www.codechef.com/problems/CHRL2)
+- [Chef and String](https://www.codechef.com/problems/CHRL2)
 
-- [Link Name](https://www.codechef.com/problems/CHSERVE)
+- [Chef and Serves](https://www.codechef.com/problems/CHSERVE)
 
-- [Link Name](https://www.codechef.com/problems/CIELRCPT)
+- [Ciel and Receipt](https://www.codechef.com/problems/CIELRCPT)
 
-- [Link Name](https://www.codechef.com/problems/CLIPLX)
+- [IPL and RCB](https://www.codechef.com/problems/CLIPLX)
 
-- [Link Name](https://www.codechef.com/problems/CNDLOVE)
+- [Candy Love](https://www.codechef.com/problems/CNDLOVE)
 
-- [Link Name](https://www.codechef.com/problems/CO92JUDG)
+- [Chef Judges a Competition](https://www.codechef.com/problems/CO92JUDG)
 
-- [Link Name](https://www.codechef.com/problems/CODERLIF)
+- [Coder Life Matters](https://www.codechef.com/problems/CODERLIF)
 
-- [Link Name](https://www.codechef.com/problems/COKE)
+- [Chef Drinks Coke](https://www.codechef.com/problems/COKE)
 
-- [Link Name](https://www.codechef.com/problems/COLOR)
+- [Chef and Coloring](https://www.codechef.com/problems/COLOR)
 
-- [Link Name](https://www.codechef.com/problems/COOMILK)
+- [Bear and Milky Cookies](https://www.codechef.com/problems/COOMILK)
 
-- [Link Name](https://www.codechef.com/problems/COUPSYS)
+- [Coupon System](https://www.codechef.com/problems/COUPSYS)
 
-- [Link Name](https://www.codechef.com/problems/CPAIRS)
+- [Chef and Pairs](https://www.codechef.com/problems/CPAIRS)
 
-- [Link Name](https://www.codechef.com/problems/CSUM)
+- [Chef and Sum](https://www.codechef.com/problems/CSUM)
 
-- [Link Name](https://www.codechef.com/problems/CV)
+- [CV](https://www.codechef.com/problems/CV)
 
 - [Link Name](https://www.codechef.com/problems/DANOW)
 
