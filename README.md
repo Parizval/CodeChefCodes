@@ -92,83 +92,83 @@ I have created the entire list of question whose solutions are available in this
 
 - [CV](https://www.codechef.com/problems/CV)
 
-- [Link Name](https://www.codechef.com/problems/DANOW)
+- [asd](https://www.codechef.com/problems/DANOW)
 
-- [Link Name](https://www.codechef.com/problems/DECINC)
+- [Decrement OR Increment](https://www.codechef.com/problems/DECINC)
 
-- [Link Name](https://www.codechef.com/problems/DEVARRAY)
+- [Devu and an Array](https://www.codechef.com/problems/DEVARRAY)
 
-- [Link Name](https://www.codechef.com/problems/DEVUGRAP)
+- [Devu and Grapes](https://www.codechef.com/problems/DEVUGRAP)
 
-- [Link Name](https://www.codechef.com/problems/DIFFSUM)
+- [Sum OR Difference](https://www.codechef.com/problems/DIFFSUM)
 
-- [Link Name](https://www.codechef.com/problems/DWNLD)
+- [Download file](https://www.codechef.com/problems/DWNLD)
 
-- [Link Name](https://www.codechef.com/problems/EGRANDR)
+- [Andrash and Stipendium](https://www.codechef.com/problems/EGRANDR)
 
-- [Link Name](https://www.codechef.com/problems/EID)
+- [Eidi Gift](https://www.codechef.com/problems/EID)
 
-- [Link Name](https://www.codechef.com/problems/ELEVSTRS)
+- [From Heaven to earth](https://www.codechef.com/problems/ELEVSTRS)
 
-- [Link Name](https://www.codechef.com/problems/ENCMSG)
+- [Encoding Message](https://www.codechef.com/problems/ENCMSG)
 
-- [Link Name](https://www.codechef.com/problems/EXUNA)
+- [Weird Modulo Problem](https://www.codechef.com/problems/EXUNA)
 
-- [Link Name](https://www.codechef.com/problems/FANCY)
+- [Fancy Quotes](https://www.codechef.com/problems/FANCY)
 
-- [Link Name](https://www.codechef.com/problems/FBMT)
+- [Football Match](https://www.codechef.com/problems/FBMT)
 
-- [Link Name](https://www.codechef.com/problems/FCTRL2)
+- [Small Factorials](https://www.codechef.com/problems/FCTRL2)
 
-- [Link Name](https://www.codechef.com/problems/FRK)
+- [Chef and Friends](https://www.codechef.com/problems/FRK)
 
-- [Link Name](https://www.codechef.com/problems/FRUITS)
+- [Chef and Fruits](https://www.codechef.com/problems/FRUITS)
 
-- [Link Name](https://www.codechef.com/problems/FSQRT)
+- [Finding Square Roots](https://www.codechef.com/problems/FSQRT)
 
-- [Link Name](https://www.codechef.com/problems/GDOG)
+- [Greedy Puppy](https://www.codechef.com/problems/GDOG)
 
-- [Link Name](https://www.codechef.com/problems/GOODBAD)
+- [Good and Bad Persons](https://www.codechef.com/problems/GOODBAD)
 
-- [Link Name](https://www.codechef.com/problems/HEADBOB)
+- [Tanu and Head-bob](https://www.codechef.com/problems/HEADBOB)
 
-- [Link Name](https://www.codechef.com/problems/HILLS)
+- [Jumping in the hills](https://www.codechef.com/problems/HILLS)
 
-- [Link Name](https://www.codechef.com/problems/HOWMANY)
+- [HOW MANY DIGITS DO I HAVE](https://www.codechef.com/problems/HOWMANY)
 
-- [Link Name](https://www.codechef.com/problems/HS08TEST)
+- [ATM](https://www.codechef.com/problems/HS08TEST)
 
-- [Link Name](https://www.codechef.com/problems/ICL1902)
+- [FlatLand](https://www.codechef.com/problems/ICL1902)
 
-- [Link Name](https://www.codechef.com/problems/INTEST)
+- [Enormous Input Test](https://www.codechef.com/problems/INTEST)
 
-- [Link Name](https://www.codechef.com/problems/ISITCAKE)
+- [Is it a Cakewalk Problem](https://www.codechef.com/problems/ISITCAKE)
 
-- [Link Name](https://www.codechef.com/problems/JDELAY)
+- [Judging Delay](https://www.codechef.com/problems/JDELAY)
 
-- [Link Name](https://www.codechef.com/problems/KOL16J)
+- [Quentin Tarantino](https://www.codechef.com/problems/KOL16J)
 
-- [Link Name](https://www.codechef.com/problems/L56GAME)
+- [Chef and Game with Sequence](https://www.codechef.com/problems/L56GAME)
 
-- [Link Name](https://www.codechef.com/problems/LADDU)
+- [Laddu](https://www.codechef.com/problems/LADDU)
 
-- [Link Name](https://www.codechef.com/problems/LCH15JAB)
+- [Piece of cake](https://www.codechef.com/problems/LCH15JAB)
 
-- [Link Name](https://www.codechef.com/problems/LCOLLIS)
+- [Collisions](https://www.codechef.com/problems/LCOLLIS)
 
-- [Link Name](https://www.codechef.com/problems/LIFELTD)
+- [Life Limited](https://www.codechef.com/problems/LIFELTD)
 
-- [Link Name](https://www.codechef.com/problems/LONGSEQ)
+- [Chef and digits of a number](https://www.codechef.com/problems/LONGSEQ)
 
-- [Link Name](https://www.codechef.com/problems/LUCKFOUR)
+- [Lucky Four](https://www.codechef.com/problems/LUCKFOUR)
 
-- [Link Name](https://www.codechef.com/problems/MATCHES)
+- [Playing with Matches](https://www.codechef.com/problems/MATCHES)
 
-- [Link Name](https://www.codechef.com/problems/MDL)
+- [Medel](https://www.codechef.com/problems/MDL)
 
-- [Link Name](https://www.codechef.com/problems/PAJAPONG)
+- [Ping Paja Pong](https://www.codechef.com/problems/PAJAPONG)
 
-- [Link Name](https://www.codechef.com/problems/PLAYSTR.PY)
+- [Playing with Strings](https://www.codechef.com/problems/PLAYSTR)
 
 - [Link Name](https://www.codechef.com/problems/RPD)
 
