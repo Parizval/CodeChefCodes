@@ -170,29 +170,29 @@ I have created the entire list of question whose solutions are available in this
 
 - [Playing with Strings](https://www.codechef.com/problems/PLAYSTR)
 
-- [Link Name](https://www.codechef.com/problems/RPD)
+- [Easy Math](https://www.codechef.com/problems/RPD)
 
 - [Link Name](https://www.codechef.com/problems/S10)
 
-- [Link Name](https://www.codechef.com/problems/SEBIHWY)
+- [Sebi and the highway](https://www.codechef.com/problems/SEBIHWY)
 
-- [Link Name](https://www.codechef.com/problems/SEGM01)
+- [Bear and Segment 01](https://www.codechef.com/problems/SEGM01)
 
-- [Link Name](https://www.codechef.com/problems/SNAKPROC)
+- [Snake Procession](https://www.codechef.com/problems/SNAKPROC)
 
-- [Link Name](https://www.codechef.com/problems/SPELLBOB.PY)
+- [Spell Bob](https://www.codechef.com/problems/SPELLBOB)
 
-- [Link Name](https://www.codechef.com/problems/STRLBP)
+- [Uniform Strings](https://www.codechef.com/problems/STRLBP)
 
-- [Link Name](https://www.codechef.com/problems/TABLET)
+- [Buying New Tablet](https://www.codechef.com/problems/TABLET)
 
-- [Link Name](https://www.codechef.com/problems/TALAZY)
+- [Lazy Jem](https://www.codechef.com/problems/TALAZY)
 
-- [Link Name](https://www.codechef.com/problems/TEMPLELA)
+- [Temple Land](https://www.codechef.com/problems/TEMPLELA)
 
-- [Link Name](https://www.codechef.com/problems/TICKETS5)
+- [Tickets](https://www.codechef.com/problems/TICKETS5)
 
-- [Link Name](https://www.codechef.com/problems/TLG)
+- [The Lead Game](https://www.codechef.com/problems/TLG)
 
 - [Coins And Triangle](https://www.codechef.com/problems/TRICOIN)
 
