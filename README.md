@@ -2,7 +2,7 @@
 
 I have created the entire list of question whose solutions are available in this repository.
 
-### Python
+### Beginner
 
 - [Ada and crayons](https://www.codechef.com/problems/ADACRA)
 
@@ -225,3 +225,55 @@ I have created the entire list of question whose solutions are available in this
 - [Link Name](https://www.codechef.com/problems/XENTASK)
 
 - [Link Name](https://www.codechef.com/problems/ZUBREACH)
+
+### Easy
+
+- [ALEXNUMB](https://www.codechef.com/problems/ALEXNUMB)
+
+- [AMSGAME1](https://www.codechef.com/problems/AMSGAME1)
+
+- [ANUWTA](https://www.codechef.com/problems/ANUWTA)
+
+- [BUYING2](https://www.codechef.com/problems/BUYING2)
+
+- [CHEFING](https://www.codechef.com/problems/CHEFING)
+
+- [CHEFLCM](https://www.codechef.com/problems/CHEFLCM)
+
+- [CHFPARTY](https://www.codechef.com/problems/CHFPARTY)
+
+- [CIELAB](https://www.codechef.com/problems/CIELAB)
+
+- [CNOTE](https://www.codechef.com/problems/CNOTE)
+
+- [EASYPROB](https://www.codechef.com/problems/EASYPROB)
+
+- [ERROR](https://www.codechef.com/problems/ERROR)
+
+- [GCD2](https://www.codechef.com/problems/GCD2)
+
+- [HELLO](https://www.codechef.com/problems/HELLO)
+
+- [HORSES](https://www.codechef.com/problems/HORSES)
+
+- [JOHNY](https://www.codechef.com/problems/JOHNY)
+
+- [KOL15A](https://www.codechef.com/problems/KOL15A)
+
+- [NUM239](https://www.codechef.com/problems/NUM239)
+
+- [OJUMPS](https://www.codechef.com/problems/OJUMPS)
+
+- [PROSUM](https://www.codechef.com/problems/PROSUM)
+
+- [RIGHTRI](https://www.codechef.com/problems/RIGHTRI)
+
+- [STONES](https://www.codechef.com/problems/STONES)
+
+- [TEST](https://www.codechef.com/problems/TEST)
+
+- [VOTERS](https://www.codechef.com/problems/VOTERS)
+
+- [WALK](https://www.codechef.com/problems/WALK)
+
+- [ZOZ](https://www.codechef.com/problems/ZOZ)
