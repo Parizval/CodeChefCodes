@@ -148,6 +148,8 @@ I have created the entire list of question whose solutions are available in this
 
 - [Quentin Tarantino](https://www.codechef.com/problems/KOL16J)
 
+- [Guddu on a Date](https://www.codechef.com/problems/KS2)
+
 - [Chef and Game with Sequence](https://www.codechef.com/problems/L56GAME)
 
 - [Laddu](https://www.codechef.com/problems/LADDU)
