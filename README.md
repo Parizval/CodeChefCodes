@@ -176,6 +176,8 @@ I have created the entire list of question whose solutions are available in this
 
 - [Link Name](https://www.codechef.com/problems/S10)
 
+- [Safe Robots](https://www.codechef.com/problems/SAFEROBO)
+
 - [Sebi and the highway](https://www.codechef.com/problems/SEBIHWY)
 
 - [Bear and Segment 01](https://www.codechef.com/problems/SEGM01)
