@@ -200,6 +200,8 @@ I have created the entire list of question whose solutions are available in this
 
 - [The Lead Game](https://www.codechef.com/problems/TLG)
 
+- [Select Training Set](https://www.codechef.com/problems/TRAINSET)
+
 - [Coins And Triangle](https://www.codechef.com/problems/TRICOIN)
 
 - [Truth and Dare](https://www.codechef.com/problems/TRUEDARE)
