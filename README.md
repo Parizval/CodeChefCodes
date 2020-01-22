@@ -42,6 +42,8 @@ I have created the entire list of question whose solutions are available in this
 
 - [Chef and Chocolate](https://www.codechef.com/problems/CHCHCL)
 
+- [Check Algorithm](https://www.codechef.com/problems/CHEALG)
+
 - [Chef and Apartment Dues](https://www.codechef.com/problems/CHEFAPAR)
 
 - [Chef and His Characters](https://www.codechef.com/problems/CHEFCHR)
