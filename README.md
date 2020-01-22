@@ -58,6 +58,8 @@ I have created the entire list of question whose solutions are available in this
 
 - [Chef and Sequence](https://www.codechef.com/problems/CHFAR)
 
+- [Chef Chick](https://www.codechef.com/problems/CHFCHK)
+
 - [Chef and Interactive Contests](https://www.codechef.com/problems/CHFINTRO)
 
 - [Malvika is peculiar about color of ballons](https://www.codechef.com/problems/CHN09)
