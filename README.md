@@ -228,6 +228,8 @@ I have created the entire list of question whose solutions are available in this
 
 - [Is it a VOWEL or CONSONANT](https://www.codechef.com/problems/VOWELTB)
 
+- [That Is My Score!](https://www.codechef.com/problems/WATSCORE)
+
 - [Who dares to be a millionaire](https://www.codechef.com/problems/WDTBAM)
 
 - [Xenny and Alternating Tasks](https://www.codechef.com/problems/XENTASK)
