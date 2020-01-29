@@ -252,6 +252,8 @@ I have created the entire list of question whose solutions are available in this
 
 - [CHEFLCM](https://www.codechef.com/problems/CHEFLCM)
 
+- [Chef and Subset](https://www.codechef.com/problems/CHEFSETC)
+
 - [CHFPARTY](https://www.codechef.com/problems/CHFPARTY)
 
 - [CIELAB](https://www.codechef.com/problems/CIELAB)
